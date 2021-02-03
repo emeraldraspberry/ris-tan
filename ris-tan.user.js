@@ -45,6 +45,7 @@
       const a = document.createElement("a");
 
       a.innerText = "reverse search";
+      a.href = "javascript: void 0;";
       a.onclick = () => {
         this.reverseSearch(dataUrl);
       };
