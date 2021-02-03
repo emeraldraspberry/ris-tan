@@ -36,10 +36,10 @@
       const iqdbLink = "https://iqdb.org/?url=" + dataUrl;
       const ascii2dLink = "https://ascii2d.net/search/url/" + dataUrl;
 
-      window.open(saucenaoLink, "_blank");
       window.open(googleLink, "_blank");
       window.open(iqdbLink, "_blank");
       window.open(ascii2dLink, "_blank");
+      window.open(saucenaoLink, "_blank");
     }
 
     searchButton(dataUrl) {
