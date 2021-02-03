@@ -3,7 +3,7 @@
 // @namespace    https://github.com/emeraldraspberry/ris-tan
 // @updateUrl    https://github.com/emeraldraspberry/ris-tan/raw/main/ris-tan.user.js
 // @downloadUrl  https://github.com/emeraldraspberry/ris-tan/raw/main/ris-tan.user.js
-// @version      0.21.02.01
+// @version      0.21.02.02
 // @description  Companion userscript that aids with reverse image search on Reddit.
 // @author       EmeraldRaspberry
 // @match        https://*.reddit.com/*/
